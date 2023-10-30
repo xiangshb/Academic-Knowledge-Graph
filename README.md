@@ -3,4 +3,4 @@
 # Academic Knowledge Graph
 | Date | Name | Link |
 | :-----: | :---- | :---- |
-| 20200803 | SemOpenAlex | <https://arxiv.org/abs/2308.03671> |
+| 7 Aug 2023 | SemOpenAlex | <https://arxiv.org/abs/2308.03671> |
