@@ -1,4 +1,4 @@
-# Some collection of  academic knowledge graphs
+# Some collection of  academic or scholarly or scientific knowledge graphs
 
 # Academic Knowledge Graph
 | Release Date | Paper | Code |
